@@ -3,6 +3,10 @@ https://leesumin2.streamlit.app/ |
 https://leesumin3.streamlit.app/ |
 https://leesumin5.streamlit.app/
 
+---
+<img width="1444" height="696" alt="image" src="https://github.com/user-attachments/assets/f27ccc6f-7688-4d79-a7e8-ef00cc0e0b7d" />
+
+
 # 🌞 Sunspot Activity Analysis Dashboard
 
 이 프로젝트는 태양흑점(Sunspot) 데이터를 기반으로 시계열 시각화와 예측을 수행하는 **데이터 분석 및 머신러닝 기반 대시보드**입니다. `Streamlit`을 활용해 웹 애플리케이션 형태로 구현되었으며, 시각적 탐색과 예측 결과를 직관적으로 확인할 수 있습니다.
